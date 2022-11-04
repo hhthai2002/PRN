@@ -1,0 +1,13 @@
+E:\major\.NET_VS\CodeVS\AiLaTrieuPhu\bin\Debug\AiLaTrieuPhu.exe.config
+E:\major\.NET_VS\CodeVS\AiLaTrieuPhu\bin\Debug\AiLaTrieuPhu.exe
+E:\major\.NET_VS\CodeVS\AiLaTrieuPhu\bin\Debug\AiLaTrieuPhu.pdb
+E:\major\.NET_VS\CodeVS\AiLaTrieuPhu\bin\Debug\Guna.UI2.dll
+E:\major\.NET_VS\CodeVS\AiLaTrieuPhu\obj\Debug\AiLaTrieuPhu.csproj.AssemblyReference.cache
+E:\major\.NET_VS\CodeVS\AiLaTrieuPhu\obj\Debug\AiLaTrieuPhu.csproj.SuggestedBindingRedirects.cache
+E:\major\.NET_VS\CodeVS\AiLaTrieuPhu\obj\Debug\AiLaTrieuPhu.Form1.resources
+E:\major\.NET_VS\CodeVS\AiLaTrieuPhu\obj\Debug\AiLaTrieuPhu.Properties.Resources.resources
+E:\major\.NET_VS\CodeVS\AiLaTrieuPhu\obj\Debug\AiLaTrieuPhu.csproj.GenerateResource.cache
+E:\major\.NET_VS\CodeVS\AiLaTrieuPhu\obj\Debug\AiLaTrieuPhu.csproj.CoreCompileInputs.cache
+E:\major\.NET_VS\CodeVS\AiLaTrieuPhu\obj\Debug\AiLaTrieuPhu.csproj.CopyComplete
+E:\major\.NET_VS\CodeVS\AiLaTrieuPhu\obj\Debug\AiLaTrieuPhu.exe
+E:\major\.NET_VS\CodeVS\AiLaTrieuPhu\obj\Debug\AiLaTrieuPhu.pdb
