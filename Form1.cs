@@ -1,4 +1,7 @@
-﻿using System;
+﻿using AiLaTrieuPhu.BLL;
+using AiLaTrieuPhu.DAL;
+using AiLaTrieuPhu.DTO;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -15,10 +18,28 @@ namespace AiLaTrieuPhu
         public Form1()
         {
             InitializeComponent();
+            DataAccess dataAccess = new DataAccess();
+            dataAccess.OpenConnection();
         }
 
         private void btnMC_Click(object sender, EventArgs e)
         {
+            try
+            {
+                QuestionsAccessBLL access = new QuestionsAccessBLL();
+                foreach(Questions questions in access.GetAllQuestions())
+                {
+                    if(pnlMark1.BackColor == Color.Transparent)
+                    {
+                        int qid = 1;
+                        lblQuestions.Text = access.GetAllQuestions()[1].ques;
+                    }
+                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
             if(pnlMark1.BackColor == Color.Transparent)
             {
                 lblQuestions.Text = "Anh Hiếu Thái có đẹp trai không ?";

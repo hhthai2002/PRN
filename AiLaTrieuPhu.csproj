@@ -49,6 +49,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BLL\AnswersAccessBLL.cs" />
+    <Compile Include="BLL\QuestionsAccessBLL.cs" />
+    <Compile Include="DAL\AnswersAccess.cs" />
+    <Compile Include="DAL\DataAccess.cs" />
+    <Compile Include="DAL\QuestionsAccess.cs" />
+    <Compile Include="DTO\Answers.cs" />
+    <Compile Include="DTO\Questions.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
